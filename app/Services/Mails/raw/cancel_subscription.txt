@@ -1,0 +1,13 @@
+
+Cancelamos tu suscripción a Publica.la
+
+Hola {{NAME_ALIAS}},
+
+Tu suscripción al servicio mensual estará activa hasta la fecha {{END_OF_SERVICE}}.Hasta entonces puedes seguir disfrutando del servicio.
+
+
+Recuerda que los contenidos de alquiler se cobrarán de manera adicional con el mismo medio de pago utilizado para tu suscripción.
+
+¡Esperamos tenerte de vuelta muy pronto!
+
+El equipo de Publica.la

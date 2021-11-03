@@ -1,0 +1,10 @@
+##
+# Publica.la
+##
+{{CONTENT}}
+##
+Descargá gratis nuestras aplicaciones en: AppStore y GooglePlay
+##
+data footer
+
+© {{ANIO}} jcarrizalez . All rights reserved.

@@ -1,0 +1,11 @@
+
+¡Bienvenido a Publica.la!
+
+Hola {{NAME_ALIAS}},
+
+Gracias por registrarse en Publica.la. activa tu usuario con este token
+
+
+Validar aqui: {{LINK}}
+
+El equipo de Publica.la

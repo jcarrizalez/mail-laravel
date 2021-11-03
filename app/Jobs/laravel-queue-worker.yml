@@ -1,0 +1,8 @@
+apps:
+  - name: process-laravel
+    script: current/artisan
+    exec_mode: fork
+    interpreter: php7.4
+    instances: 1
+    args:
+      - init:scan
