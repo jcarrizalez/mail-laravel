@@ -1,5 +1,5 @@
 
-¡Bienvenido a Publica.la!
+¡Bienvenido a xxxxxxxx!
 
 Hola {{NAME_ALIAS}},
 
