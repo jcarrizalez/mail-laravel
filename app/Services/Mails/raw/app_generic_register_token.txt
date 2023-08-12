@@ -8,4 +8,4 @@ Gracias por registrarse en Publica.la. activa tu usuario con este token
 
 Validar aqui: {{LINK}}
 
-El equipo de Publica.la
+El equipo de xxxxxxxxx
