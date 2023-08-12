@@ -51,7 +51,7 @@ class AppGenericRegisterTokenMail
         #EVENT
         $this->job->mail((object) [
             'type'      => 'mail',
-            'subject'   => '¡Bienvenido a Publica.la!',
+            'subject'   => '¡Bienvenido a XXXXXXX!',
             'email'     => $email,
             'name'      => $name,
             'view_html' => $body_html,
